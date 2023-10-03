@@ -275,5 +275,8 @@ first div in the grid  and place it in the grid. */
 @media screen and (min-width: 800px){
   .text-block {
     max-height: 250px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 }
