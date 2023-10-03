@@ -147,7 +147,7 @@ nav a:focus {
 first div in the grid  and place it in the grid. */
 @media only screen and (max-width: 768px){
   .container > div:first-of-type {
-    background-image: url("images/header.jpg");
+    background-image: url("hw3_grid_23/images/header.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
